@@ -106,3 +106,9 @@ DVLD/
 ## Author
 
 **Ameen Hafez** — [GitHub profile](https://github.com/amenhafezhafez-dot)
+
+## Project history
+
+Originally built in 2024 as a driving-license management system. In 2026 it was 
+revisited and improved: fixing several bugs, adding proper exception handling, and 
+redesigning the entire UI with a unified modern theme.
